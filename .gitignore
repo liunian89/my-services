@@ -100,3 +100,5 @@ local.properties
 *.iml
 out
 gen
+pom.xml
+src/
