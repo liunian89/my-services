@@ -6,7 +6,11 @@
 
     <groupId>com.liunian</groupId>
     <artifactId>my-services</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>wechat</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
